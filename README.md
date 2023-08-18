@@ -1,1 +1,1 @@
-readme for git task
+readme for precors
